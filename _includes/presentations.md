@@ -13,8 +13,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/TSAC.pdf" target="_blank">A Study On Consumers's Travel Intention During the Covid-19 Normalization Period From the Perspective of Ambivalent Attitude</a> (In Chinese)</div>
-    <div class="author"><strong>Xu Wei</strong>, Li Jun* (*Corresponding author)</div>
+    <div class="title"><a href="assets/files/TSAC.pdf" target="_blank">A Study On Consumers's Travel Intention During the Covid-19 Normalization Period From the Perspective of Ambivalent Attitude <em>(In Chinese)<em></a></div>
+    <div class="author"><em><strong>Xu Wei</strong><em>, Li Jun* (*Corresponding author)</div>
     <div class="periodical"><em>Tourism Science Annual Conference <strong>(TSAC)</strong>, 2022, Online.</em></div>
     <div class="links">
       <a href="assets/files/TenHave2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a>
