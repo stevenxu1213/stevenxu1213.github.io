@@ -14,7 +14,7 @@
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #E19898 !important; }}
+@media (prefers-color-scheme: dark) { .social-icons a {color: #DDE6ED !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -35,7 +35,7 @@
       }
      */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
+@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#030303;
     color:black;
     transform: scale(1.2)} 
     /*
@@ -160,12 +160,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #7D5A50;
-        color: #FCDEC0;
+        background-color: #27374D;
+        color: #DDE6ED;
     }
 
     autocolor{
-      color:#B4846C;
+      color:#9DB2BF;
     }
 
     lightonly {
