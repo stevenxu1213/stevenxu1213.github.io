@@ -1,6 +1,8 @@
 # Basic Information 
 title: Xu Wei(Steven)
+# subtitle: 
 position: M.A. Student
+# subposition: 
 affiliation: Nankai University
 subaffiliation: College of Tourism and Service Management
 affiliation_link: https://en.nankai.edu.cn
@@ -17,11 +19,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com/
+# google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/stevenxu1213
-#linkedin: https://www.linkedin.com/
-#twitter: https://twitter.com/
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -35,7 +37,7 @@ enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
@@ -43,7 +45,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
