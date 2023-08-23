@@ -20,6 +20,8 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 
 <!-- {% include_relative _includes/publications.md %} -->
 
+{% include_relative _includes/presentations.md %}
+
 <!-- {% include_relative _includes/internships.md %} -->
 
 ## Work Experiences
