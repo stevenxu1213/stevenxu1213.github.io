@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. 
+I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be advised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Li Xiaoyi</a>, and was advised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Li Jun</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South Normal China University</a>.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Tourism Basic Theory:** basic definition of tourism, usual and unusual environment
+- **Tourism Marketing:** tourism advertisement, tourism and service social media marketing
+- **Tourist Behavior:** tourist interaction, tourist motivation, tourist satisfaction
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept.2018 - Jun.2022]** School of Tourism Management, South China University
+- **[Sept.2022 - Jun.2025(expected)]** College of Tourism and Service Management, Nankai University
 
 {% include_relative _includes/publications.md %}
 
