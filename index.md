@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. 
 
 ## Research Interests
 
