@@ -24,7 +24,10 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 
 <!-- {% include_relative _includes/internships.md %} -->
 
-## Work Experiences
+## Honors
 
-**[Oct.2021 - Feb.2022]**  <a href="https://corporate.jd.com//"> JD.com, Inc.</a> *Guangzhou, China*
-- <a href="https://jdp.com.cn/"> JD Property</a>, Investment Development Department, Intern
+- **[Dec.2021, National Level]**  <a href="assets/files/outstanding undergraduate thesis.pdf"> Outstanding Undergraduate Thesis</a> *(7/142, Top 4.9%)*
+- **[June.2022, University Level]**  <a href="assets/files/first class sholarship1.pdf"> First Class Scholarship</a> *(5/142, Top 3.5%)*
+- **[May.2022, University Level]**  <a href="assets/files/first class sholarship1.pdf"> First Class Scholarship</a> *(5/142, Top 3.5%)*
+- **[Mar.2022, University Level]**  <a href="assets/files/first class sholarship2.pdf"> First Class Scholarship</a> *(5/142, Top 3.5%)*
+
