@@ -26,7 +26,7 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 
 ## Selected Honors
 
-- **[Dec.2021, National Level]**  <a href="assets/files/national scholarship.pdf"> National Scholar ship</a> *(1/142, Top 0.1%)*
+- **[Dec.2021, National Level]**  <a href="assets/files/national scholarship.pdf"> National Scholarship</a> *(1/142, Top 0.1%)*
 - **[Jun.2022, University Level]**  <a href="assets/files/outstanding undergraduate thesis.pdf"> Outstanding Undergraduate Thesis</a> *(7/142, Top 4.9%)*
 - **[May.2022, University Level]**  <a href="assets/files/first class scholarship1.pdf"> First Class Scholarship</a> *(5/142, Top 3.5%)*
 - **[Mar.2022, University Level]**  <a href="assets/files/first class scholarship2.pdf"> First Class Scholarship</a> *(5/142, Top 3.5%)*
