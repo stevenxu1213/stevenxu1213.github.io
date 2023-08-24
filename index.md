@@ -34,9 +34,9 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 
 ## Selected Awards
 
-- **[Oct.2021, <a href="https://cy.ncss.cn/en/"> International Level</a>]**  *Silver Award,* <a href="assets/files/silver award.pdf"> The 7th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition</a> *(Top 0.1%)*
-- **[Aug.2020, <a href="http://www.fwwb.org.cn/"> National Level</a>]**  *Second Price,* <a href="assets/files/service second prize.pdf"> The 11th Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Students</a> *(Top 1%)*
-- **[May.2021, <a href="https://news.scnu.edu.cn/39959"> National Level</a>]**  *First Price,* <a href="assets/files/HCPC.pdf"> The 10th Heritage Conservation Proposal Competition for Chinese College Students</a> *(Top 1%)*
-- **[Dec.2020, <a href="http://www.ccpitedu.org/index.aspx"> National Level</a>]**  *First Price,* <a href="assets/files/NCBECC.pdf"> 2020 National College Business Elite Challenge Competition</a> *(Top 3%)*
-- **[Dec.2021, <a href="https://fba.um.edu.mo/zh-hant/2021casestudycompetition/"> National Level</a>]**  *Second Price,* <a href="assets/files/BCSC.pdf"> 2021 Guangdong Hong Kong Macau Greater Bay Area Integrated Resort Sustainable Business Case Study Competition</a> *(Top 10%)*
+- **[Oct.2021, <a href="https://cy.ncss.cn/en/"> International Level</a>]**  The 7th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition, <a href="assets/files/silver award.pdf"> Silver Award</a> *(Top 0.1%)*
+- **[Aug.2020, <a href="http://www.fwwb.org.cn/"> National Level</a>]**  The 11th Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Students, <a href="assets/files/service second prize.pdf"> Second Price</a> *(Top 1%)*
+- **[May.2021, <a href="https://news.scnu.edu.cn/39959"> National Level</a>]**  The 10th Heritage Conservation Proposal Competition for Chinese College Students, <a href="assets/files/HCPC.pdf"> First Price</a> *(Top 1%)*
+- **[Dec.2020, <a href="http://www.ccpitedu.org/index.aspx"> National Level</a>]**  2020 National College Business Elite Challenge Competition, <a href="assets/files/NCBECC.pdf"> First Price</a> *(Top 3%)*
+- **[Dec.2021, <a href="https://fba.um.edu.mo/zh-hant/2021casestudycompetition/"> National Level</a>]**  2021 Guangdong Hong Kong Macau Greater Bay Area Integrated Resort Sustainable Business Case Study Competition, <a href="assets/files/BCSC.pdf"> Second Price</a> *(Top 10%)*
 
