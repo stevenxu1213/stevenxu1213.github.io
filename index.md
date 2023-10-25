@@ -9,9 +9,10 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 
 ## Research Interests
 
-- **Tourism Basic Theory:** unusual environment and unusual behavior, tourism market construction 
+- **Tourism Basic Theory:** usual and unusual environment, tourism market construction 
 - **Tourism Marketing:** tourism advertisement, tourism and service digital marketing
-- **Tourist Behavior:** tourist interaction, tourist motivation, tourist satisfaction
+- **Tourism New Community:** digital nomad and community
+- **Tourist Behavior:** travel motivation and intention, tourist satisfaction
 
 ## Education
 
