@@ -21,7 +21,7 @@
       <a href="https://mp.weixin.qq.com/s/ZO0a-QIA47QLMtl-o705OA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">Invited Presentation, Best Conference Paper Award</I></strong>
+      <strong><i style="color:#D6AFAF">Invited Presentation, Best Conference Paper</I></strong>
     </div>
   </div>
 </div>
