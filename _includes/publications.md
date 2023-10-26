@@ -18,7 +18,7 @@
     <div class="periodical"><em>Tourism Tribune, <strong>(CSSCI)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://lyxk.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=lyxk" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/assets/files/TT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/TT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
       <strong><i style="color:#D6AFAF">IF=5.282, Peer Reviewing</I></strong>
@@ -44,7 +44,7 @@
     <div class="periodical"><em>Modern Business Trade Industry, 2021, 42(31):74-75.</em></div>
     <div class="links">
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=A67obWUfw0kb0LSHaiNhJ31APHuwUyl0Ar8knkAVieQWmol9K0hzINkcOcvHyhr5OTqR2VpjOJGuMs38wVhYuDl_A9c9APEODDa_Xawh7Ts-msjDPDepHeXUU0XTlBPIdHOumdsz5TTxtqlrPQixSA==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/assets/files/MBTI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/MBTI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
       <strong><i style="color:#D6AFAF">IF=0.415</I></strong>
