@@ -36,12 +36,15 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 ## Selected Awards
 
 - **[Oct.2021, <a href="https://cy.ncss.cn/en/"> International Level</a>]**  The 7th China International College Students' 'Internet+' Innovation and Entrepreneurship Competition, <a href="assets/files/silver award.pdf"> Silver Award</a> *(Top 0.1%)*
-- **[Oct.2023, <a href="https://mp.weixin.qq.com/s/ZO0a-QIA47QLMtl-o705OA"> National Level</a>]**  Tourism Tribune-China Tourism Research Annual Conference 2023, <a href="assets/files/best paper award.pdf"> Best Conference Paper Award</a> *(Top 1%)*
+- **[Oct.2023, <a href="https://mp.weixin.qq.com/s/ZO0a-QIA47QLMtl-o705OA"> National Level</a>]**  Tourism Tribune-China Tourism Research Annual Conference 2023, <a href="assets/files/best paper award.pdf"> Best Conference Paper Award</a> *(Top 3%)*
 - **[Aug.2020, <a href="http://www.fwwb.org.cn/"> National Level</a>]**  The 11th Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Students, <a href="assets/files/service second prize.pdf"> Second Price</a> *(Top 1%)*
 - **[May.2021, <a href="https://news.scnu.edu.cn/39959"> National Level</a>]**  The 10th Heritage Conservation Proposal Competition for Chinese College Students, <a href="assets/files/HCPC.pdf"> First Price</a> *(Top 1%)*
 - **[Dec.2020, <a href="http://www.ccpitedu.org/index.aspx"> National Level</a>]**  2020 National College Business Elite Challenge Competition, <a href="assets/files/NCBECC.pdf"> First Price</a> *(Top 3%)*
 - **[Dec.2021, <a href="https://fba.um.edu.mo/zh-hant/2021casestudycompetition/"> National Level</a>]**  2021 Guangdong Hong Kong Macau Greater Bay Area Integrated Resort Sustainable Business Case Study Competition, <a href="assets/files/BCSC.pdf"> Second Price</a> *(Top 10%)*
 
 
-{% include_relative _includes/internships.md %}
+## Internships and Services
 
+- **[Mar.2022 - Jun.2022]**  <a href="https://www.mars.com/"> Mars Co., Ltd.</a>  *Sales Management Intern*
+- **[Oct.2021 - Feb.2022]**  <a href="https://jdp.com.cn/"> JD Property, JD.com, Inc.</a>  *Marketing Investment Intern*
+- **[Sep.2020 - Sep.2021]**  <a href="http://www.sanli-tracks.com"> Guangdong Qingling Eduaction Investment Co., Ltd.</a>  *Education Tour Designer Intern*
