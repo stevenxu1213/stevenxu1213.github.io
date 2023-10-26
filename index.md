@@ -24,7 +24,6 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 
 {% include_relative _includes/presentations.md %}
 
-<!-- {% include_relative _includes/internships.md %} -->
 
 ## Selected Honors
 
@@ -42,4 +41,7 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 - **[May.2021, <a href="https://news.scnu.edu.cn/39959"> National Level</a>]**  The 10th Heritage Conservation Proposal Competition for Chinese College Students, <a href="assets/files/HCPC.pdf"> First Price</a> *(Top 1%)*
 - **[Dec.2020, <a href="http://www.ccpitedu.org/index.aspx"> National Level</a>]**  2020 National College Business Elite Challenge Competition, <a href="assets/files/NCBECC.pdf"> First Price</a> *(Top 3%)*
 - **[Dec.2021, <a href="https://fba.um.edu.mo/zh-hant/2021casestudycompetition/"> National Level</a>]**  2021 Guangdong Hong Kong Macau Greater Bay Area Integrated Resort Sustainable Business Case Study Competition, <a href="assets/files/BCSC.pdf"> Second Price</a> *(Top 10%)*
+
+
+{% include_relative _includes/internships.md %}
 
