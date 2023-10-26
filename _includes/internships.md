@@ -1,16 +1,8 @@
-## Internships
+## Internships and Services
 
-<h4 style="margin:0 10px 0;"><a href="https://corporate.jd.com/">JD.com, Inc. [Oct.2021 - Feb.2022]
+<h4 style="margin:0 10px 0;">[March.2022 - June.2022]<a href="https://www.mars.com/">Marketing Intern, Mars, Co., Ltd.</a>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
+<h4 style="margin:0 10px 0;">[Oct.2021 - Feb.2022]<a href="https://jdp.com.cn/">Marketing Investment Intern, JD Property, JD.com, Inc.</a>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+<h4 style="margin:0 10px 0;">[Sept.2020 - Sept.2021]<a href="http://www.sanli-tracks.com">Education Tour Designer Intern, Guangdong Qingling Yanxue, Co., Ltd.</a>
 </ul>
