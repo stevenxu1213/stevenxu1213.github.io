@@ -19,7 +19,6 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 - **[Sept.2022 - Jun.2025]** <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>
 - **[Sept.2018 - Jun.2022]** <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South Normal China University</a>
 
-<!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/publications.md %}
 
