@@ -6,6 +6,13 @@ layout: homepage
 
 I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be advised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Xiaoyi Li</a>, and was advised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Jun Li</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>.
 
+I always characterize myself *having inexhaustible curiosity, energy, and creative ideas*. Throughout my schooling, I have found that doing research fits well with my quality, and it always brings me happiness and senses of accomplishment: the former comes from the process of continuous exploration and excavation of research issues, and the latter originates in solving problems and helping the industry grow. On the verge of completing my Mphil’s degree, I am determined to follow the path of pursing my career in academia and hope to keep exploring and contributing my wisdom to the field of marketing, *that's why I looking for PhD program*.
+
+To do better research, I constantly improving myself from the world outside of research, including keeping learning and staying in touch with industry. For learning, in addition to working hard on my major, *I also get knowlege from psychology and behavioral economics*, all of this set me up to conduct creative and solid research. For the industry, I maintained long term internships to gain more practical insights. Also, I involved in entrepreneurship in tourism industry during my undergraduate, which broadened my knowledge of product marketing, business, and company operations in many ways, giving me deeper insights for the whole industry.
+
+In my daily life, I enjoy *swimming, running and working out*, which all help me to build a healthy body. Meanwhile, I love *performing and writing*. I've starred in stage plays that have won national price in competitions, I also got 14,000 likes and 2.14 million views on *ZHIHU*, a knowledge-sharing community in China. These hobbies have made me a more *confident and optimistic* person.
+
+My research interests are wide-ranging. I am now interested in *Sensory Marketing*, *Consumers Social Preference*, *Cross-culture Marketing*, *Service Robots* and *Tourist Behavior*. Simultaneously, I am totally willing and capable enough to study in a new area, and I have absolute confidence and determination to thoroughly conduct future research involved.
 
 
 ## Education
