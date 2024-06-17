@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be advised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Li Xiaoyi</a>, and was advised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Li Jun</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South Normal China University</a>.
+I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be advised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Li Xiaoyi</a>, and was advised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Li Jun</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South Normal China University</a>.
 
 
 ## Research Interests
@@ -28,10 +28,11 @@ I am a second year M.A. student in <a href="https://entas.nankai.edu.cn" target=
 ## Selected Honors
 
 - **[Dec.2021, National Level]**  <a href="assets/files/national scholarship.pdf"> National Scholarship</a> *(1/142, Top 0.1%)*
+- **[Oct.2022, University Level]**  <a href="assets/files/exam-free postgraduate scholarship.pdf"> Exam-Free Postgraduate Scholarship Thesis</a> *(7/142, Top 4.9%)*
 - **[Jun.2022, University Level]**  <a href="assets/files/outstanding undergraduate thesis.pdf"> Outstanding Undergraduate Thesis</a> *(7/142, Top 4.9%)*
-- **[May.2022, University Level]**  <a href="assets/files/first class scholarship1.pdf"> First Class Scholarship</a> *(5/142, Top 3.5%)*
-- **[Mar.2022, University Level]**  <a href="assets/files/first class scholarship2.pdf"> First Class Scholarship</a> *(5/142, Top 3.5%)*
-
+- **[May.2022, University Level]**  <a href="assets/files/first class scholarship1.pdf"> First Class Scholarship (2021-2022)</a> *(5/142, Top 3.5%)*
+- **[Mar.2022, University Level]**  <a href="assets/files/first class scholarship2.pdf"> First Class Scholarship (2020-2021)</a> *(5/142, Top 3.5%)*
+- **[May.2021, University Level]**  <a href="assets/files/outstanding student.pdf"> Top 100 Outstanding Undergraduate Student</a> *(2/142, Top 1%)*
 
 ## Selected Awards
 
