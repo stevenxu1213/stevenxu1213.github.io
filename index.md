@@ -28,7 +28,7 @@ I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target
 ## Selected Honors
 
 - **[Dec.2021, National Level]**  <a href="assets/files/national scholarship.pdf"> National Scholarship</a> *(1/142, Top 0.1%)*
-- **[Oct.2022, University Level]**  <a href="assets/files/exam-free postgraduate scholarship.pdf"> Exam-Free Postgraduate Scholarship Thesis</a> *(7/142, Top 4.9%)*
+- **[Oct.2022, University Level]**  <a href="assets/files/exam-free postgraduate scholarship.pdf"> Exam-Free Postgraduate Scholarship</a>
 - **[Jun.2022, University Level]**  <a href="assets/files/outstanding undergraduate thesis.pdf"> Outstanding Undergraduate Thesis</a> *(7/142, Top 4.9%)*
 - **[May.2022, University Level]**  <a href="assets/files/first class scholarship1.pdf"> First Class Scholarship (2021-2022)</a> *(5/142, Top 3.5%)*
 - **[Mar.2022, University Level]**  <a href="assets/files/first class scholarship2.pdf"> First Class Scholarship (2020-2021)</a> *(5/142, Top 3.5%)*
