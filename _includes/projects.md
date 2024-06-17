@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Crowding-Out or Complementing? Experimental Study on the Interaction Between Material Incentives and Social Preferences</div>
+    <div class="title"><a>Crowding-Out or Complementing? Experimental Study on the Interaction Between Material Incentives and Social Preferences</a></div>
     <div class="author">National Social Science Foundation Project (No. 23BJL124)</div>
     <div class="periodical"><em>My Role: Project Member (Sep. 2022 — Present)</em></div>
     <div class="links">
@@ -39,7 +39,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Show Order or Disorder? The Impact of Natural Landscape Images’ Visual Entropy on Tourists’ Preference</div>
+    <div class="title"><a>Show Order or Disorder? The Impact of Natural Landscape Images’ Visual Entropy on Tourists’ Preference</a></div>
     <div class="author">Postgraduate Thesis</div>
     <div class="periodical"><em>My Role: Project Leader (Feb. 2024 — Present)</em></div>
     <div class="links">
