@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">New Construction of Unusual Theory: Based on Embodied Cognition and Dual-system Perspective</a> <strong><i style>(In Chinese)</i></strong></div>
+    <div class="title">New Construction of Unusual Theory: Based on Embodied Cognition and Dual-system Perspective <strong><i style>(In Chinese)</i></strong></div>
     <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Chunxiao Li (*Corresponding author)</div>
     <div class="periodical"><em>Tourism Tribune,2024,39(2):49-61.</em></div>
     <div class="links">
@@ -38,7 +38,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Liquid Life: The Logic of Mobility and Life Strategies of Digital Nomads</a> <strong><i style>(In Chinese)</i></strong></div>
+    <div class="title">Liquid Life: The Logic of Mobility and Life Strategies of Digital Nomads <strong><i style>(In Chinese)</i></strong></div>
     <div class="author">Jia Xie*, Yanchang Yang, Xuan He, <strong><i style>Xu Wei</I></strong></div>
     <div class="periodical"><em>Tourism Science,2024,38(5):41-56.</em></div>
     <div class="links">
@@ -64,7 +64,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Are They Companions or Intruders? The Impact of Advertising Tourists’ Images on Consumers’ Purchase Intention to Tour Packages</a></div>
+    <div class="title">Are They Companions or Intruders? The Impact of Advertising Tourists’ Images on Consumers’ Purchase Intention to Tour Packages</div>
     <div class="author">Xiaoyi Li, <strong><i style>Xu Wei*</I></strong>, Yanchang Yang (*Corresponding author)</div>
     <div class="periodical"><em>Current Issues in Tourism</em></div>
     <div class="links">
