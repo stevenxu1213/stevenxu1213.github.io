@@ -8,20 +8,20 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CTRAC.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CTRAC</abbr>
+    <img src="assets/img/NSSF.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NSSF</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">New Construction of Unusual Theory: Based on Embodied Cognition and Dual-System Perspective <strong><i style>(In Chinese)</i></strong></div>
-    <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Chunxiao Li (*Corresponding author)</div>
-    <div class="periodical"><em>China Tourism Research Annual Conference, 2023, Wuhu, China.</em></div>
+    <div class="title">Crowding-Out or Complementing? Experimental Study on the Interaction Between Material Incentives and Social Preferences</div>
+    <div class="author">National Social Science Foundation Project (No. 23BJL124)</div>
+    <div class="periodical"><em>My Role: Project Member (Sep. 2022 — Present)</em></div>
     <div class="links">
-      <a href="assets/files/China Tourism Research Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a>
-      <a href="https://mp.weixin.qq.com/s/ZO0a-QIA47QLMtl-o705OA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
+      <!-- <a href="assets/files/China Tourism Research Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a> -->
+      <!-- <a href="https://mp.weixin.qq.com/s/ZO0a-QIA47QLMtl-o705OA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">Invited Presentation, Best Conference Paper</I></strong>
+      <strong><i style="color:#D6AFAF">Project Leader: Xiaoyi Li</I></strong>
     </div>
   </div>
 </div>
@@ -34,26 +34,27 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TSAC.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TSAC</abbr>
+    <img src="assets/img/PT.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Postgraduate Thesis</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">A Study On Consumers's Travel Intention During the Covid-19 Normalization Period From the Perspective of Ambivalent Attitude <strong><i style>(In Chinese)</i></strong></div>
-    <div class="author"><strong><i style>Wei Xu</i></strong>, Jun Li* (First author)</div>
-    <div class="periodical"><em>Tourism Science Annual Conference, 2022, Online.</em></div>
+    <div class="title">Show Order or Disorder? The Impact of Natural Landscape Images’ Visual Entropy on Tourists’ Preference</div>
+    <div class="author">Postgraduate Thesis</div>
+    <div class="periodical"><em>My Role: Project Leader (Feb. 2024 — Present)</em></div>
     <div class="links">
-      <a href="assets/files/Tourism Science Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a>
-      <a href="http://lykx.sitsh.edu.cn/CN/column/item63.shtml" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
+      <!-- <a href="assets/files/China Tourism Research Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a> -->
+      <!-- <a href="https://mp.weixin.qq.com/s/ZO0a-QIA47QLMtl-o705OA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">Invited Presentation</i></strong>
+      <strong><i style="color:#D6AFAF">Project Supervisor: Xiaoyi Li</i></strong>
     </div>
   </div>
 </div>
 </li>
   
 <br>
+
 
 
 </ol>
