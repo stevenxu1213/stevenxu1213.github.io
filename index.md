@@ -18,7 +18,7 @@ I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target
 
 {% include_relative _includes/presentations.md %}
 
-{% include_relative _includes/ongoing projects.md %}
+{% include_relative _includes/projects.md %}
 
 
 ## Selected Honors
