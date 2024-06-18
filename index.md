@@ -8,7 +8,7 @@ I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target
 
 I always characterize myself <a>having inexhaustible curiosity, energy, and creative ideas</a>. Throughout my schooling, I have found that doing research fits well with my quality, and <a>it always brings me happiness and senses of accomplishment</a>. On the verge of completing my Mphil’s degree, I am determined to follow the path of pursing my career in academia and hope to keep contributing my wisdom to the field of marketing, <a>that's why I looking for PhD program</a>.
 
-My research interests are wide-ranging. I am now interested in <a>Sensory Marketing, Consumers Information Processing and Preference, Service Robots, Cross-Culture Marketing, and Tourist Behavior</a>. I am also totally willing and capable enough to study in a new area.
+My research interests are wide-ranging. I am now interested in <a>Sensory Marketing, Service Robots, Consumers Information Processing and Preference, Cross-Culture Marketing, and Tourist Behavior</a>. I am also totally willing and capable enough to study in a new area.
 
 In my daily life, I enjoy <a>swimming, running and working out</a>, helping to build a healthy body. Meanwhile, I love <a>performing and writing</a>. I've starred in stage plays that have won national price, I also got <a>14,000 likes and 2.14 million views</a> on <a>*ZHIHU*</a>, a knowledge-sharing community in China. These hobbies have made me a more <a>confident and optimistic</a> person.
 
