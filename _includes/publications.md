@@ -39,7 +39,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>Liquid Life: The Logic of Mobility and Life Strategies of Digital Nomads</a> <strong><i style>(In Chinese)</i></strong></div>
-    <div class="author">Jia Xie*, Yanchang Yang, Xuan He, <strong><i style>Xu Wei</I></strong></div>
+    <div class="author">Jia Xie*, Yanchang Yang, Xuan He, <strong><i style>Wei Xu</I></strong></div>
     <div class="periodical"><em>Tourism Science,2024,38(5):41-56.</em></div>
     <div class="links">
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=6RlcORkFSJQ_EmP2TgER4EXhTNinHqey41BffUEyNk3bm8Pk4b6DnJncoKAhwyMzaSytQ07XcVyh8gpI5pbz_cn6T71wFWBQuepM_oeBwcI-4XGOhUAA840q5buFtUiKO9cHSLyh-Ac=&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -65,7 +65,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>Are They Companions or Intruders? The Impact of Advertising Tourists’ Images on Consumers’ Purchase Intention to Tour Packages</a></div>
-    <div class="author">Xiaoyi Li, <strong><i style>Xu Wei*</I></strong>, Yanchang Yang (*Corresponding author)</div>
+    <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Yanchang Yang (*Corresponding author)</div>
     <div class="periodical"><em>Current Issues in Tourism</em></div>
     <div class="links">
       <!-- <a href="https://kns.cnki.net/kcms2/article/abstract?v=6RlcORkFSJQ_EmP2TgER4EXhTNinHqey41BffUEyNk3bm8Pk4b6DnJncoKAhwyMzaSytQ07XcVyh8gpI5pbz_cn6T71wFWBQuepM_oeBwcI-4XGOhUAA840q5buFtUiKO9cHSLyh-Ac=&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
