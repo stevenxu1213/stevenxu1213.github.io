@@ -19,9 +19,10 @@
     <div class="links">
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=6RlcORkFSJTh6Lsk7mbm6_7zzEVZIx7AMTjWjfIiPA7RKguX0XS7OA97rsp4CrKxCQfoIKobYlXEQUkAIJOCKaMY-biueR5B_uwva7923uHXuFwZExxvB2Y1AWF1ssCcS4OSLtG7GRqiB5OH258_qw==&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/New Construction of Unusual Theory.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+      <a href="https://tas.nankai.edu.cn/info/1019/5715.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">IF=5.654, CSSCI</I></strong>
+      <strong><i style="color:#D6AFAF">IF=5.654, CSSCI, Reprinted by CSSE (China Social Science Excellence)</I></strong>
+
     </div>
   </div>
 </div>
