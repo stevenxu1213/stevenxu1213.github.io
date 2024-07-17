@@ -6,9 +6,9 @@ layout: homepage
 
 I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be advised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Xiaoyi Li</a>, and was advised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Jun Li</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>.
 
-I always characterize myself <a>having inexhaustible curiosity, energy, and creative ideas</a>. Throughout my schooling, I have found that doing research fits well with my quality, and <a>it always brings me happiness and senses of accomplishment</a>. On the verge of completing my Mphil’s degree, I am determined to follow the path of pursing my career in academia and hope to keep contributing my wisdom to the field of tourism, <a>that's why I looking for PhD program</a>.
+I always characterize myself <a>having inexhaustible curiosity, energy, and creative ideas</a>. Throughout my schooling, I have found that doing research fits well with my quality, and <a>it always brings me happiness and senses of accomplishment</a>. On the verge of completing my master's study, I am determined to follow the path of pursing my career in academia and hope to keep contributing my wisdom to the field of tourism, <a>that's why I looking for PhD program</a>.
 
-My research interests are wide-ranging. I am now interested in <a>Tourism Marketing, Tourist Information Processing and Preference, and Tourist Behavior</a>. I am also totally willing and capable enough to study in a new area.
+My current research interests include <a>Tourist Information Processing and Preference, Tourist Behavior, and Tourism Marketing</a>. I am also totally willing and capable enough to study in a new area. Through my past research experience, I have learned both quantitive and qualitative methods and developed the ability to conduct research. Currently I used experimental method more often, meanwhile I mastered some softwares and skills for data analysis, including  <a>SPSS, Amos, Python, R, etc</a>. 
 
 In my daily life, I enjoy <a>swimming, running and working out</a>, helping me to build a healthy body. Meanwhile, I love <a>performing and writing</a>. I've starred in stage plays that have won national price, I also got <a>14,000 likes and 2.14 million views</a> on <a>*ZHIHU*</a>, a knowledge-sharing community in China. These hobbies have made me a more <a>confident and optimistic</a> person.
 
@@ -51,5 +51,5 @@ In my daily life, I enjoy <a>swimming, running and working out</a>, helping me t
 - **[Oct.2021 - Feb.2022]**  <a href="https://jdp.com.cn/"> JD Property, JD.com, Inc.</a>  *Marketing Investment Intern*
 - **[Sep.2020 - Sep.2021]**  <a href="http://www.sanli-tracks.com"> Guangdong Qingling Eduaction Investment Co., Ltd.</a>  *Education Tour Designer Intern*
 - **[Sep.2019 - Sep.2021]**  <a href="assets/files/Counselors Assistant.pdf"> School of Tourism Management, SCNU.</a>  *Counselors Assistant*
-- **[Sep.2019 - Sep.2020]**  <a href="assets/files/School Office Assistant.pdf"> School of Tourism Management, SCNU.</a>  *School Office Assistant*
+- **[Sep.2019 - Sep.2020]**  <a href="assets/files/School Office Assistant.pdf"> School of Tourism Management, SCNU.</a>  *Vice President of Students Training Department*
 - **[Aug.2020 - Sep.2020]**  <a href="assets/files/Group Leader.pdf"> Public Service Poverty Alleviation Group.</a>  *Group Leader*
