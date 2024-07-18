@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be advised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Xiaoyi Li</a>, and was advised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Jun Li</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>.
+I am a second year MPhil student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be supervised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Xiaoyi Li</a>, and was supervised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Jun Li</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>.
 
 I always characterize myself <a>having inexhaustible curiosity, energy, and creative ideas</a>. Throughout my schooling, I have found that doing research fits well with my quality, and <a>it always brings me happiness and senses of accomplishment</a>. On the verge of completing my master's study, I am determined to follow the path of pursing my career in academia and hope to keep contributing my wisdom to the field of tourism, <a>that's why I looking for PhD program</a>.
 
@@ -16,7 +16,7 @@ In my daily life, I enjoy <a>swimming, running and working out</a>, helping me t
 ## Education
 
 - **[Sep.2022 - Jun.2025]** <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>
-- **[Sep.2018 - Jun.2022]** <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South Normal China University</a>
+- **[Sep.2018 - Jun.2022]** <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>
 
 
 {% include_relative _includes/publications.md %}
