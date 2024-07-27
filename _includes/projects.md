@@ -57,6 +57,30 @@
 
 
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/digital nomad.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge"> </abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a>Interaction Mechanisms of Digital Nomads in China</a></div>
+    <div class="author">Research Project in Process</div>
+    <div class="periodical"><em>My Role: Project Member (Sep. 2023 — Present)</em></div>
+    <div class="links">
+      <!-- <a href="assets/files/China Tourism Research Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a> -->
+      <!-- <a href="https://mp.weixin.qq.com/s/ZO0a-QIA47QLMtl-o705OA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
+      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+      <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
+      <strong><i style="color:#D6AFAF">Project Leader: Jia Xie</I></strong>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
 
 </ol>
 </div>
