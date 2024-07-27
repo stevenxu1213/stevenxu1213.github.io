@@ -67,7 +67,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>Interaction Mechanisms of Digital Nomads in China</a></div>
-    <div class="author">Research Project in Process</div>
+    <div class="author">Research in Process</div>
     <div class="periodical"><em>My Role: Project Member (Sep. 2023 — Present)</em></div>
     <div class="links">
       <!-- <a href="assets/files/China Tourism Research Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a> -->
