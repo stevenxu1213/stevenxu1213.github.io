@@ -49,7 +49,7 @@ In my daily life, I enjoy <a>swimming, running and working out</a>, helping me t
 
 - **[Mar.2022 - Jun.2022]**  <a href="https://www.mars.com/"> Mars Co., Ltd.</a>  *Sales Management Intern*
 - **[Oct.2021 - Feb.2022]**  <a href="https://jdp.com.cn/"> JD Property, JD.com, Inc.</a>  *Marketing Investment Intern*
-- **[Sep.2020 - Sep.2021]**  <a href="http://www.sanli-tracks.com"> Guangdong Qingling Eduaction Investment Co., Ltd.</a>  *Education Tour Designer Intern*
+- **[Sep.2020 - Feb.2021]**  <a href="http://www.sanli-tracks.com"> Guangdong Qingling Eduaction Investment Co., Ltd.</a>  *Education Tour Designer Intern*
 - **[Sep.2019 - Sep.2021]**  <a href="assets/files/Counselors Assistant.pdf"> School of Tourism Management, SCNU.</a>  *Counselors Assistant*
 - **[Sep.2019 - Sep.2020]**  <a href="assets/files/School Office Assistant.pdf"> School of Tourism Management, SCNU.</a>  *Vice President of Students Training Department*
 - **[Aug.2020 - Sep.2020]**  <a href="assets/files/Group Leader.pdf"> Public Service Poverty Alleviation Group.</a>  *Group Leader*
