@@ -43,7 +43,7 @@
     <div class="author"><strong><i style>Wei Xu</i></strong>, Jun Li* (First author)</div>
     <div class="periodical"><em>Tourism Science Annual Conference, 2022, Online.</em></div>
     <div class="links">
-      <a href="assets/files/Tourism Science Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a>
+      <!-- <a href="assets/files/Tourism Science Annual Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PowerPoint</a> -->
       <a href="http://lykx.sitsh.edu.cn/CN/column/item63.shtml" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
