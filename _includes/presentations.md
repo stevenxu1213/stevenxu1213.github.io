@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>New Construction of Unusual Theory: Based on Embodied Cognition and Dual-System Perspective</a> <strong><i style>(In Chinese)</i></strong></div>
+    <div class="title"><a>New Construction of Unusual Theory: Based on Embodied Cognition and Dual-System Perspective</a></div>
     <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Chunxiao Li (*Corresponding author)</div>
     <div class="periodical"><em>China Tourism Research Annual Conference, 2023, Wuhu, China.</em></div>
     <div class="links">
@@ -39,7 +39,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>A Study On Consumers's Travel Intention During the Covid-19 Normalization Period From the Perspective of Ambivalent Attitude</a> <strong><i style>(In Chinese)</i></strong></div>
+    <div class="title"><a>A Study On Consumers's Travel Intention During the Covid-19 Normalization Period From the Perspective of Ambivalent Attitude</a></div>
     <div class="author"><strong><i style>Wei Xu</i></strong>, Jun Li* (First author)</div>
     <div class="periodical"><em>Tourism Science Annual Conference, 2022, Online.</em></div>
     <div class="links">
