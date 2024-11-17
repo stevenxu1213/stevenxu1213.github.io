@@ -4,18 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a third year Master's student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be supervised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Xiaoyi Li</a>, and was supervised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Jun Li</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>.
+I am a third year MPhil. student in <a href="https://entas.nankai.edu.cn" target="_blank"> College of Tourism and Service Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>. I am now very fortunate to be supervised by Prof. <a href="https://entas.nankai.edu.cn/info/1111/1614.htm"> Xiaoyi Li</a>, and was supervised by Prof. <a href="http://stm.scnu.edu.cn/english/faculty/exhibition/2020/0714/2.html"> Jun Li</a> during my undergraduate study in <a href="http://stm.scnu.edu.cn/english/"> School of Tourism Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>.
 
 I always characterize myself <a>having inexhaustible curiosity, energy, and creative ideas</a>. Throughout my schooling, I have found that doing research fits well with my quality, and <a>it always brings me happiness and senses of accomplishment</a>. On the verge of completing my master's study, I am determined to follow the path of pursing my career in academia and hope to keep contributing my wisdom to the field of marketing, <a>that's why I looking for PhD program</a>.
 
-My current research interests include <a>Consumer Information Processing and Preference, Digital Marketing, Service Marketing and Management, and New Forms of Consumption</a>. I am also totally willing and capable enough to study in a new area. Through my past research experience, I have learned both quantitive and qualitative methods and developed the ability to conduct solid research. Currently I used experimental method more often, meanwhile I mastered some softwares and skills for data analysis, including  <a>SPSS, Amos, Python, R, etc.</a>, and am continually learning new methods and tools. 
+My current research interests include <a>Consumer Information Processing and Preference, Digital Marketing, Service Marketing and Management, and Sensory Marketing</a>. I am also totally willing and capable enough to study in a new area. Through my past research experience, I have learned both quantitive and qualitative methods and developed the ability to conduct solid research. Currently I used experimental method more often, meanwhile I mastered some softwares and skills for data analysis, including  <a>SPSS, Amos, Python, R, etc.</a>, and am continually learning new methods and tools. 
 
 In my daily life, I enjoy <a>swimming, running and working out</a>, helping me to build a healthy body. Meanwhile, I love <a>performing and writing</a>. I've starred in stage plays that have won national price, I also got <a>14,000 likes and 2.14 million views</a> on <a>*ZHIHU*</a>, a knowledge-sharing community in China. These hobbies have made me a more <a>confident and optimistic</a> person.
 
 
 ## Education
 
-- **[Sep.2022 - Jun.2025]** <a href="https://entas.nankai.edu.cn" target="_blank"> M.Mgt. in Tourism Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>
+- **[Sep.2022 - Jun.2025]** <a href="https://entas.nankai.edu.cn" target="_blank"> MPhil. in Tourism Management</a>, <a href="https://en.nankai.edu.cn" target="_blank"> Nankai University</a>
 - **[Sep.2018 - Jun.2022]** <a href="http://stm.scnu.edu.cn/english/"> B.Mgt. in Exhibition Economy and Management</a>, <a href="http://english.scnu.edu.cn"> South China Normal University</a>
 
 
