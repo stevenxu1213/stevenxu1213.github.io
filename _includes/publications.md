@@ -3,6 +3,30 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/CIT.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Current Issues in Tourism</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a>Are They Companions or Intruders? The Impact of Advertising Tourist Images on Consumers’ Purchase Intention for Tour Packages</a></div>
+    <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Yanchang Yang (*Corresponding author)</div>
+    <div class="periodical"><em>Current Issues in Tourism</em></div>
+    <div class="links">
+      <!-- <a href="https://kns.cnki.net/kcms2/article/abstract?v=6RlcORkFSJQ_EmP2TgER4EXhTNinHqey41BffUEyNk3bm8Pk4b6DnJncoKAhwyMzaSytQ07XcVyh8gpI5pbz_cn6T71wFWBQuepM_oeBwcI-4XGOhUAA840q5buFtUiKO9cHSLyh-Ac=&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <a href="assets/files/CIT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+      <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
+      <strong><i style="color:#D6AFAF">IF=5.7, SSCI Q1, ABS2, Accepted</I></strong>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
 
 <li>
 <div class="pub-row">
@@ -21,7 +45,7 @@
       <a href="assets/files/New Construction of Unusual Theory.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://tas.nankai.edu.cn/info/1019/5715.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">IF=5.654, CSSCI, Reprinted by CSSE (China Social Science Excellence)</I></strong>
+      <strong><i style="color:#D6AFAF">IF=5.91, CSSCI, Reprinted by CSSE (China Social Science Excellence)</I></strong>
 
     </div>
   </div>
@@ -47,7 +71,7 @@
       <a href="assets/files/Liquid Life.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">IF=3.861, CSSCI</I></strong>
+      <strong><i style="color:#D6AFAF">IF=4.138, CSSCI</I></strong>
     </div>
   </div>
 </div>
@@ -56,30 +80,7 @@
 <br>
 
 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CIT.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Current Issues in Tourism</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>Are They Companions or Intruders? The Impact of Advertising Tourists’ Images on Consumers’ Purchase Intention to Tour Packages</a></div>
-    <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Yanchang Yang (*Corresponding author)</div>
-    <div class="periodical"><em>Current Issues in Tourism</em></div>
-    <div class="links">
-      <!-- <a href="https://kns.cnki.net/kcms2/article/abstract?v=6RlcORkFSJQ_EmP2TgER4EXhTNinHqey41BffUEyNk3bm8Pk4b6DnJncoKAhwyMzaSytQ07XcVyh8gpI5pbz_cn6T71wFWBQuepM_oeBwcI-4XGOhUAA840q5buFtUiKO9cHSLyh-Ac=&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-      <a href="assets/files/CIT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
-      <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">IF=5.7, SSCI Q1, ABS2, First Round Revision</I></strong>
-    </div>
-  </div>
-</div>
-</li>
-  
-<br>
 
 
 
