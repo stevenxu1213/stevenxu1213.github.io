@@ -8,13 +8,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/current.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Current Issues in Tourism, 2025, 1-19.</abbr>
+    <abbr class="badge">Current Issues in Tourism</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>Are They Companions or Intruders? The Impact of Advertising Tourist Images on Consumers’ Purchase Intention for Tour Packages</a></div>
     <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Yanchang Yang (*Corresponding author)</div>
-    <div class="periodical"><em>Current Issues in Tourism</em></div>
+    <div class="periodical"><em>Current Issues in Tourism, 2025, 1-19.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1080/13683500.2025.2458732" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/CIT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
