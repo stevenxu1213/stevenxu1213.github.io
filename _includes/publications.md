@@ -16,7 +16,7 @@
     <div class="author">Xiaoyi Li, <strong><i style>Wei Xu*</I></strong>, Yanchang Yang (*Corresponding author)</div>
     <div class="periodical"><em>Current Issues in Tourism</em></div>
     <div class="links">
-      <!-- <a href="https://kns.cnki.net/kcms2/article/abstract?v=6RlcORkFSJQ_EmP2TgER4EXhTNinHqey41BffUEyNk3bm8Pk4b6DnJncoKAhwyMzaSytQ07XcVyh8gpI5pbz_cn6T71wFWBQuepM_oeBwcI-4XGOhUAA840q5buFtUiKO9cHSLyh-Ac=&uniplatform=NZKPT&language=CHS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <a href="https://doi.org/10.1080/13683500.2025.2458732" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/CIT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
