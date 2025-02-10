@@ -20,7 +20,7 @@
       <a href="assets/files/CIT.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a> -->
-      <strong><i style="color:#D6AFAF">IF=5.7, SSCI Q1, ABS2, Accepted</I></strong>
+      <strong><i style="color:#D6AFAF">IF=5.7, SSCI Q1, ABS2</I></strong>
     </div>
   </div>
 </div>
